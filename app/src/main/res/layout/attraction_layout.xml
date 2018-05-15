@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:padding="@dimen/titlePadding"
+        android:textAlignment="center"
+        android:textSize="@dimen/titleSize"
+        android:textStyle="bold"
+        tools:text="@string/Alianello" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/imageSize"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/castle_2672317_640" />
+
+    <TextView
+        android:id="@+id/description_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily=""
+        android:padding="@dimen/paddingDesription"
+        android:textSize="@dimen/textInfo"
+        android:textStyle="italic"
+        tools:text="@string/laoDesription" />
+
+    <TextView
+        android:id="@+id/info_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/titlePadding"
+        android:layout_marginLeft="@dimen/titlePadding"
+        android:autoLink="web"
+        android:drawableLeft="@drawable/ic_info_outline_black_24dp"
+        android:drawablePadding="@dimen/titlePadding"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/titleSize"
+        android:textStyle="bold"
+        tools:text="@string/laoInfo" />
+
+    <TextView
+        android:id="@+id/map_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/titlePadding"
+        android:layout_marginLeft="@dimen/titlePadding"
+        android:drawableLeft="@drawable/ic_location_on_black_24dp"
+        android:drawablePadding="@dimen/titlePadding"
+        android:textSize="@dimen/titleSize"
+        android:textStyle="bold"
+        tools:text="@string/mapMalconsiglio" />
+
+
+</LinearLayout>

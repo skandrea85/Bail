@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">25sp</dimen>
+    <dimen name="imageSize">200dp</dimen>
+    <dimen name="paddingDesription">25dp</dimen>
+    <dimen name="textInfo">20sp</dimen>
+    <dimen name="marginBottom">10dp</dimen>
+    <dimen name="titlePadding">20dp</dimen>
+</resources>

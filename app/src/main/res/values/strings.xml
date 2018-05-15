@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Bailicata</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="genzano">Castello di Monteserico</string>
+    <string name="sichinulfo">Castello Feudale Sichinulfo</string>
+    <string name="malconsiglio">Castello del Malconsiglio</string>
+    <string name="grotticelle">Grotticelle</string>
+    <string name="pisconi">Pisconi</string>
+    <string name="Riserva">Riserva Naturale San Giuliano</string>
+    <string name="MontesericoDescription">The castle of Monteserico, whose severe profile stands alone at the summit of an imposing rocky cliff about 15 km east of Genzano di Lucania, represents, for the construction phases that characterize it, an interesting example of medieval architecture in Basilicata.
+Built in the eleventh century, the castle dominates a vast hilly area, originally covered with large wooded areas, strategically located along important roads and at the border between the Byzantine territories of the middle and lower Bradano valley and those, first Lombards and then Normans, of the north-east of the Region.
+The castle, born with the Normans as a defensive bulwark of the town, in the phase in which the population increase and the urban expansion of the early medieval village make it necessary to expand the defensive walls and define the new fortified perimeter, already in the first half of the thirteenth century it loses its strictly military connotation to assume the dimension of "Domus", mainly linked to the exploitation of the agricultural resources of the rich surrounding territory, becoming one of the cornerstones of the administrative structure of the Demanio Regio of Federico II, organized for the breeding of horses and production of grains. This model is subsequently adopted also by the Angioinis and, further strengthened, by the Aragonese.</string>
+
+    <string name="MapSerico">Genzano</string>
+    <string name="InfoSerico">http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_2113907389.html</string>
+    <string name="malconsiglioDescription">The castle, belonging to the Sanseverino family, takes its name from the conspiracy organized inside by the barons of the kingdom, against Ferdinando I of Aragon, king of Naples. The conspiracy took place on October 1, 1481 and ended with the bloody slaughter of the barons in the great hall on the first floor; from that moment the castle was called of the "Malconsiglio".
+        The castle has the shape of a parallelogram, flanked by seven towers, the oldest of which square, two bitorri and some circular towers, placed at the top of the building. It is built on two levels, with a gallery that dates back to a restructuring commissioned by the Revertera in 1600. The most beautiful part of the castle is the Sala della Stella or Spiriti, in whose small niches carved into the walls were kept the treasures of its inhabitants.</string>
+    <string name="infoMalconsiglio">http://www.castellodelmalconsiglio.it/7m/</string>
+    <string name="mapMalconsiglio">map</string>
+    <string name="sichinulfoDescription">Castello di Grottole: The original structure consisted of 13 sopranos rooms, 6 subdued rooms, a stable and a cellar.
+
+Tradition has it that the castle of Grottole was built in 851 by Sichinulfo, a Lombard Duke who at the time was Prince of Salerno, using limestone material. Surrounded by a series of battlements and loopholes, from which numerous archers defended the village, the castle, as we read in the Angevin Registers, was surrounded by walls, with a ramp and a drawbridge. Probably Duke Sichinulfo wanted to erect this fortress, above all to defend the territories he had in his possession.</string>
+    <string name="infoSichinulfo">http://grottole.com/il-castello-di-grottole/</string>
+    <string name="mapSichinulfo">map</string>
+    <string name="Lao">River Lao</string>
+    <string name="Noce">River Noce</string>
+    <string name="Monticchio">Lakes Monticchio</string>
+    <string name="Craco">Craco</string>
+    <string name="Alianello">Alianello</string>
+    <string name="Campomaggiore">Campomaggiore</string>
+    <string name="alinaelloDescription">1541/5000
+Alianello Vecchio is a fraction of the municipality of Aliano, in the province of Matera, in Basilicata. It is located in the Val d\'Agri, to the left of the river of the same name, and includes Alianello di Sotto and Alianello Nuovo, a locality that according to the last Istat census, carried out in 2001, have respectively 74 and 196 inhabitants.
+
+History
+
+Alianello Vecchio was founded in about 1200, but had a significant increase in population only in the early decades of the twentieth century due to the transfer of the population of Aliano for a landslide. Previously, in 1857, there had been an earthquake that had involved all of Basilicata, causing 5,000 victims out of about 7,500 inhabitants altogether. The Bourbons sent photographers also to study the damage that the earthquake had caused buildings. The severity of the earthquake struck across Europe: there were scientific expeditions from England and even Charles Dickens wrote about what had happened in Southern Italy.
+
+In the area there are prehistoric testimonies dating back to the fifth millennium BC
+
+and from the 7th and 6th centuries BC It dates back to a large necropolis, with over a thousand pit tombs. Between the thirteenth and fourteenth centuries the Church of Santa Maria Assunta was built. This place was abandoned after the devastating earthquake of Irpinia, which occurred on November 23, 1980 between central Campania and central-northern Basilicata, causing 2,914 victims, 8,848 injured and about 280,000 displaced. The inhabitants of Alianello Vecchio moved to Alianello Nuovo.</string>
+    <string name="alianelloInfo">https://it.wikipedia.org/wiki/Alianello</string>
+    <string name="alianelloMap" />
+    <string name="craco">https://en.wikipedia.org/wiki/Craco</string>
+    <string name="cracoDescription">Around 540 BC, the area was called Montedoro and inhabited by Greeks who moved inland from the coastal town of Metaponto. Tombs have been found dating from the 8th century BC, suggesting the original settlement dates back to then. The town’s name can be dated to 1060 AD, when the land was the possession of Arnaldo, Archbishop of Tricarico, who called the area Graculum, which means in Latin "little plowed field". This long association of the Church with the town had a great influence on the inhabitants.
+
+From 1154 to 1168, the control of the village passed to the nobleman Eberto, probably of Norman origin, who established the first feudal control over the town. Then in 1179, Roberto of Pietrapertosa became the landlord of Craco. Under Frederick II, Craco was an important military center and the Castle Tower became a prison.
+
+In 1276, a university was established in town. During the 13th century, Craco became feudal tenure of Muzio Sforza. The population increased from 450 (1277), to 655 (1477), to 1,718 (1532), until reaching 2,590 in 1561; and averaged 1,500 in succeeding centuries. By the 15th century, four large palazzi had developed in the town: Palazzo Maronna near the tower, Palazzo Grossi near the big church, Palazzo Carbone on the Rigirones property, and Palazzo Simonetti. During 1656, a plague struck, with hundreds dying and reducing the number of families in the town.
+
+By 1799, with the proclamation of the Parthenopean Republic, the townspeople overthrew the Bourbon feudal system. Innocenzo De Cesare returned to Naples, where he had studied, and promoted an independent municipality. The republican revolution lasted few months and Craco returned under the Bourbon monarchy. Subsequently, the town fell under the control of the Napoleonic occupation. Bands of brigands, supported by the Bourbon government in exile, attacked Craco on July 18, 1807, plundering and killing the pro-French notables.
+
+By 1815, the town was large enough to divide it into two districts: Torrevecchia, the highest area adjacent to the castle and tower; and Quarter della Chiesa Madre, the area adjacent to San Nicola’s Church. After the unification of Italy, in 1861 Craco was conquered by the bands of brigands headed by Carmine Crocco.
+
+With the end of the civil strife, the greatest difficulty the town faced became environmental and geological. From 1892 to 1922, over 1,300 Crachesi migrated to North America mainly due to poor agricultural conditions. In 1963, Craco began to be evacuated due to a landslide and the inhabitants moved to the valley of Craco Peschiera. The landslide seems to have been provoked by works of infrastructure, sewer and water systems. In 1972 a flood worsened the situation further, preventing a possible repopulation of the historic center. After the earthquake in 1980, the ancient site of Craco was completely abandoned.
+
+
+In 2007, the descendants of the emigrants of Craco in the United States formed the Craco Society</string>
+    <string name="cracoInfo">https://it.wikipedia.org/wiki/Craco</string>
+    <string name="cracoMap">40°23′N 16°26′E</string>
+    <string name="groticelleInfo">http://www.basilicando.it/la-riserva-naturale-di-grotticelle-vulture</string>
+    <string name="grotticelleDescription">Area of considerable scientific interest, which presents in the flora and entomofauna aspects and Asian-Balkan elements, such as the European Acanthobrahmea butterfly, found in the reserve area in 1963, the only European species of a genus otherwise widespread in Asia and North-East Africa, which was thought to have been extinct in Europe for at least 300 million years. Also of great interest are the forest formations of the area, which represent a residual limb of what once covered the entire Calabrian-Lucan region, characterized by the presence of South-Eastern European species.</string>
+    <string name="grotticelleMap">40°55\'18.2"N 15°33'00.8"E</string>
+    <string name="laoDesription">In ancient times the Lao torrent was one of those torrents that marked the border between the Lucanians and the Bruzi. The Lao is a short course of water, but its perennial course makes it a very important river of the Tyrrhenian side of Calabria. The river Lao born in Basilicata with the name of Mercure and its name derives from the ancient Greek colony of Laos, a polis of Magna Graecia. The Lao has a journey of over 50 km and is born in Lucania precisely in the Pollino National Park on Serra del Prete, a rise of the Pollino Massif which is more than 2000 meters high in the town of Viggianello, in the province of Potenza . Its trend is above all E-NE, O-SO. Near the towns of Laino Borgo and Laino Castello, in Calabria, he receives the tributaries Battendiero and Jannello, and here he changes his name to Lao. At this point that abounds in water resources all year round, it enters a formidable gorge and flows extremely sunken for several kilometers. It crosses the town of Papasidero for 15 km and near Orsomarso from the left it receives the river Argentino its main tributary and later spreading in its own river bed branches off as delta in various ramifications and flows into the Tyrrhenian Sea precisely in the municipality of Scalea. The stream, thanks to the permeability of its basin, is distinguished from other rivers by the copiousness of its medium flow. By virtue of these characteristics, the clear water and the length of its stretch the Lao is the favorite destination for those who love Rafting and Canoeing. The Lao gives its name to the Valle del Fiume Lao Nature Reserve which is located in Papasidero and was built in 1987 inside the Pollino National Park.</string>
+    <string name="laoInfo">http://www.calabriatours.org/landscapes/fiume-lao.html</string>
+    <string name="laoMap">39°54\'50.4"N 15°55'36.9"E</string>
+    <string name="monticchioInfo">http://www.cittadimelfi.it/monticchio-laghi.html</string>
+    <string name="monticchioDescription">Monticchio is about 14 km from Melfi, set in the intense green of Mount Vulture, divided between the towns of Atella and Rionero in Vulture, formed by two hamlets, Monticchio and Monticchio Sgarroni. What characterizes the small center are the two lakes (called "the twins of the Vulture"), which occupy the central double volcanic crater of the Vulture: the Lago Grande (0.4 km²) and the Lago Piccolo (0.1 km²), separated by the state road now closed to traffic. Similar at first glance they are actually very different. The Lago Piccolo has very steep banks, and is about 38 m deep. The Lago Grande instead occupies a funnel-shaped cavity, with rather flat slums and that only in the North part become a 36-meter deep pit. The Piccolo Lake is fed by some springs that feed the Lago Grande, located at a slightly lower altitude, through a stream. From the Lago Grande, the waters flow into the Ofanto river, through an outflow that in summer and often dry.
+
+Monticchio is the only place in the South where the water lily, Nimphea alba, takes root and grows spontaneously; The large floating leaves are held on the bottom by long stems up to 4-5 m. and emerge on the surface in spring. Aquatic organisms benefit from it and grow faster than lakes that do not have it. A lake without plants is generally a lake without life.
+
+The woods surrounding the lakes are of great importance because they created the ideal habitat for a species of nocturnal butterfly that was believed to be absent in Europe. In 1963, in fact, the scholar Federico Harting discovered in the woods of the Vuture a new species of butterfly for science, of genus considered absent in Europe. La Bramea (Acanthobrahmaea) whose ideal habitat is located at lower altitudes, where the woods border the Ofanto river and the Atella river, has made the area of ​​interest relevant for ornithology lovers. La Bramea, a moth, has a stocky body, not very gaudy colors and designs on the wings, which perfectly camouflage it with the trunks on which it is laid. The Grotticelle Reserve, an extension of 209 hectares, protects the species and is unique in Europe to protect a butterfly. It remains the most visited tourist spot in the region during the summer and on Easter Monday where thousands of tourists from the surrounding regions are poured out.</string>
+    <string name="monticchioMao">40°57′N 15°35′E</string>
+    <string name="descriptionNoce">The Noce or fiumara of Castrocucco, erroneously called Talaus [1], is a river with a perennial course of the Tyrrhenian side of Basilicata. It is 45 kilometers long and is born from more sources in the Murge del Principe (1 398 meters), group of hills on the northern slopes of the Sirino massif.
+
+In the Pleistocene its upper basin constituted a lake of which traces remained in the small lake Sirino. With a prevalent southward trend, it runs close to the centers of Lagonegro and Rivello, widening considerably its valley floor near Lauria, thanks to the contribution, from the left, of several water courses, all coming from Mount Sirino, among which the torrents Bitonto, Prodino Grande, Senieturo, Carroso and Torbido.
+
+Arrived at the village of Parrutta (fraction of Trecchina) the river flows more recessed, with the appearance of fiumara. Acting as a border between Basilicata and Calabria, it first receives the waters of the Pizinno stream, coming from the locality of San Sago di Tortora and, then, those tributaries from the Fiumarella di Tortora, to flow, after a few kilometers, to the plain of Castrocucco di Maratea, in the sea. Tirreno, 8 km south from the municipal center.
+
+The river has a distinctly torrential regime with very large variations in range, especially in winter when it is frequently in flood. Despite this, its reach is perennial, close to two cubic meters per second even in summer.
+
+During the rainy season, in the upper part of its course where the waters are turbulent, rafting and rowing enthusiasts practice sports.</string>
+    <string name="infoNoce">https://it.wikipedia.org/wiki/Noce_(fiume_della_Basilicata)</string>
+    <string name="noceMap">39°55\'53.0"N 15°45'54.9"E</string>
+    <string name="pisconiDescription">Area che ospita una ricca fauna grazie alla densa vegetazione che favorisce la riproduzione indisturbata e protetta di numerose specie animali, tra le quali lupo, gatto selvatico, donnola e faina. Il bosco, che presenta numerose specie di querce e frassini, é accompagnato da un folto sottobosco. Sono state inoltre rinvenute nell\'area della riserva pitture rupestri risalenti al Paleo Mesolitico.</string>
+    <string name="pisconiMap">40°49\'47.0"N 15°47'08.0"E</string>
+    <string name="pisconiInfo">https://www.prolocofiliano.it/Filiano/Luoghi-di-interesse/Riserva-antropologica-I-Pisconi</string>
+    <string name="sangiulianoInfo">http://www.wwf.it/oasi/basilicata/lago_di_san_giuliano/</string>
+    <string name="sanGiulianoDescription">One of the most important wetlands of Basilicata
+The WWF Oasis of Lake San Giuliano is located in a Special Protection Area (SPA IT9220144) and in a Site of Community Importance (SIC IT9220144) in the Municipalities of Grottole, Miglionico and Matera.
+
+The area covers about 1,300 hectares and is one of the most important wetlands of Basilicata. The variety of environments and habitats of the Reserve favors the presence of a diversified fauna, especially for what concerns the ornithic species, among which storks, cranes, spoonbills, red herons, great white herons, black snakes, avocets, knights of Italy .</string>
+    <string name="sanGiulianoMap">40°36\'03.3"N 16°32'30.3"E</string>
+
+
+</resources>
